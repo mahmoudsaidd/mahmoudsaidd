@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on open source projects.
 
-- 📄 Check Out My [CV] (https://drive.google.com/file/d/1t6MYeJC4xPxKtGh9YoJdzLuzargcBYbJ/view?usp=drivesdk](https://drive.google.com/file/d/1OkLJdLutBJWGAEZEu0kTQYLqFIf4pH2N/view?usp=drivesdk) 
+- 📄 Check Out My [CV](https://drive.google.com/file/d/1t6MYeJC4xPxKtGh9YoJdzLuzargcBYbJ/view?usp=drivesdk](https://drive.google.com/file/d/1OkLJdLutBJWGAEZEu0kTQYLqFIf4pH2N/view?usp=drivesdk) 
 
 
 <h3 align="left">Connect with me:</h3>
