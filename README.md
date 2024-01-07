@@ -6,6 +6,11 @@
 - 👨‍💻 All of my projects are available [Github Repositories](github.com/mahmoudsaidd?tab=repositories)
 
 - 📫 How to reach me **mahmoudsaidd01@gmail.com**
+- 
+- 👯 I’m looking to collaborate on open source projects.
+
+- 📄 Check Out My [CV](https://drive.google.com/file/d/1t6MYeJC4xPxKtGh9YoJdzLuzargcBYbJ/view?usp=drivesdk) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
